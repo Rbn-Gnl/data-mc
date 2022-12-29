@@ -1,0 +1,37 @@
+Groups:
+  Member:
+    Default: true
+    Prefix: '&7[&3Member&7]'
+    Format: '%prefix% &e%player%&7>> '
+    Color: '&f'
+    HoverDetails: Default Rank
+    Inherits: []
+    Permissions:
+    - sethome
+    - <sethome>
+    Members:
+    - 72ba1b82-8006-335e-abf7-c3d79aea3130
+    - c517b2b8-ed70-3def-99ec-726dae1732bb
+    - e267f881-6a86-3011-b43c-d675cbd358af
+  VIP:
+    Default: false
+    Prefix: '&7[&aVIP&7]'
+    Format: '%prefix% &6%player%&7>> '
+    Color: '&b'
+    HoverDetails: '&bVery Important Player'
+    Inherits:
+    - Member
+    Permissions: []
+    Members: []
+  Admin:
+    Default: false
+    Prefix: '&7[&cAdmin&7]'
+    Format: '%prefix% &6%player%&7>>'
+    Color: '&a'
+    HoverDetails: '&6&kZZ&b&lThe Final Say&6&kZZ'
+    Inherits:
+    - Member
+    Permissions:
+    - perms.admin
+    Members:
+    - ecc866e8-9643-3d1e-b9b6-a9a5cedef46a

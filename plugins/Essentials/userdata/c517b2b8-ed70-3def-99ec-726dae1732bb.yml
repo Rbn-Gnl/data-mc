@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.170.248.245
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1672264364596
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672272067064
+  login: 1672272034935
+money: '7436.0'
+last-account-name: LordVonMoger
+logoutlocation:
+  world: 7a0b8763-73bf-4a36-9071-bdacc8d6a671
+  world-name: LA PREMIERE
+  x: 102.56216993807337
+  y: 62.0
+  z: 215.42269148622492
+  yaw: 6.633941650390625
+  pitch: 35.00129318237305
+homes:
+  home:
+    world: 7a0b8763-73bf-4a36-9071-bdacc8d6a671
+    world-name: LA PREMIERE
+    x: 106.83037199152648
+    y: 11.0
+    z: 214.71054419428063
+    yaw: -176.03504943847656
+    pitch: 20.594318389892578
+lastlocation:
+  world: 7a0b8763-73bf-4a36-9071-bdacc8d6a671
+  world-name: LA PREMIERE
+  x: -75.65442757665915
+  y: 16.0
+  z: 129.40922136502695
+  yaw: 129.24566650390625
+  pitch: 10.60366153717041

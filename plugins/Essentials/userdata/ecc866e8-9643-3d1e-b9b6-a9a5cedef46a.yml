@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.239.121.134
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1672260636289
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672266317464
+  login: 1672266303132
+money: '318.0'
+last-account-name: izaaksen
+logoutlocation:
+  world: 7a0b8763-73bf-4a36-9071-bdacc8d6a671
+  world-name: LA PREMIERE
+  x: -442.9734026328971
+  y: 68.0
+  z: 645.0006971607694
+  yaw: 164.5654296875
+  pitch: 71.84981536865234
+homes:
+  home:
+    world: 7a0b8763-73bf-4a36-9071-bdacc8d6a671
+    world-name: LA PREMIERE
+    x: 1089.6034845969955
+    y: 73.0
+    z: 45.81258523401776
+    yaw: -29.3543701171875
+    pitch: 45.599754333496094
+lastlocation:
+  world: 7a0b8763-73bf-4a36-9071-bdacc8d6a671
+  world-name: LA PREMIERE
+  x: -445.5103650171378
+  y: 62.9375
+  z: 637.2864501578861
+  yaw: -359.08843994140625
+  pitch: 4.499161720275879

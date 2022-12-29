@@ -1,0 +1,40 @@
+id: 72ba1b82-8006-335e-abf7-c3d79aea3130
+name: ZelcanFR
+created: 1672246908631
+updated: 1672256512275
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: ''
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo:
+  7a0b8763-73bf-4a36-9071-bdacc8d6a671: []
+spells:
+  missile:
+    cast_count: 0
+    last_cast: 0
+    last_earn: 0
+    cooldown_expiration: 0
+    charges: 0.0
+open_wand: false
+gave_welcome_wand: false
+resource_pack_preference: default
+data: {}
+properties:
+  version: 7
+classes:
+  caster: {}
+  mage:
+    effect_color: b99510aa79ca,37200bc4e0b1,feb321948e3e
+    mana_timestamp: 1672256512260
+    mana: 50.0
+transient_modifiers: {}
+active_class: mage
+health: 20.0
